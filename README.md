@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Verdan Mahmood</h1>
 
-<!--
-**verdan/verdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=verdan" alt="verdan" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [<img src="https://raw.githubusercontent.com/lyft/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" /> **Amundsen**](https://github.com/amundsen-io/amundsen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Big Data Ecosystem**
+
+- 💬 Ask me about **(idiomatic)Python, Flask, Django, Keycloak, OIDC, Apache Atlas, Data Discovery**
+
+---
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=verdan&show_icons=true" alt="verdan" />
+</p>
+
+---
+### Get in Touch
+- 📫 Email **verdan.mahmood@gmail.com**
+- 👔&nbsp;LinkedIn: [@verdan](https://www.linkedin.com/in/verdan/)
+- <img src="https://raw.githubusercontent.com/lyft/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" />&nbsp;Amundsen: [github.com/amundsen-io/amundsen](https://github.com/amundsen-io/amundsen)
+- 🐦&nbsp;Twitter: [@VerdanMahmood](https://twitter.com/VerdanMahmood)
+- <img src="https://user-images.githubusercontent.com/4712430/87982839-04f40a80-ca9d-11ea-8cd3-688d9a9dbfd4.png" height="16px" /> Slack: [@amundsen / Verdan Mahmood](https://join.slack.com/t/amundsenworkspace/shared_invite/enQtNTk2ODQ1NDU1NDI0LTc3MzQyZmM0ZGFjNzg5MzY1MzJlZTg4YjQ4YTU0ZmMxYWU2MmVlMzhhY2MzMTc1MDg0MzRjNTA4MzRkMGE0Nzk)
+---
