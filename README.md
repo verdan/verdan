@@ -2,11 +2,11 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=verdan" alt="verdan" /> </p>
 
-- 🔭 I’m currently working on [<img src="https://raw.githubusercontent.com/lyft/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" /> **Amundsen**](https://github.com/amundsen-io/amundsen)
+- 🔭 I’m currently working on [<img src="https://app.selectstar.com/images/logo-selectstar.svg" height="12px" alt="Select Star" />](https://selectstar.com/)
 
 - 🌱 I’m currently learning **Big Data Ecosystem**
 
-- 💬 Ask me about **(idiomatic)Python, Flask, Django, Keycloak, OIDC, Apache Atlas, Data Discovery**
+- 💬 Ask me about **(idiomatic)Python, Flask, Django, Keycloak, OIDC, Apache Atlas, Amundsen, Data Discovery**
 
 ---
 <p>
@@ -17,7 +17,6 @@
 ### Get in Touch
 - 📫 Email **verdan.mahmood@gmail.com**
 - 👔&nbsp;LinkedIn: [@verdan](https://www.linkedin.com/in/verdan/)
-- <img src="https://raw.githubusercontent.com/lyft/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" />&nbsp;Amundsen: [github.com/amundsen-io/amundsen](https://github.com/amundsen-io/amundsen)
 - 🐦&nbsp;Twitter: [@VerdanMahmood](https://twitter.com/VerdanMahmood)
 - <img src="https://user-images.githubusercontent.com/4712430/87982839-04f40a80-ca9d-11ea-8cd3-688d9a9dbfd4.png" height="16px" /> Slack: [@amundsen / Verdan Mahmood](https://join.slack.com/t/amundsenworkspace/shared_invite/enQtNTk2ODQ1NDU1NDI0LTc3MzQyZmM0ZGFjNzg5MzY1MzJlZTg4YjQ4YTU0ZmMxYWU2MmVlMzhhY2MzMTc1MDg0MzRjNTA4MzRkMGE0Nzk)
 ---
