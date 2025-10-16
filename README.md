@@ -2,11 +2,11 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=verdan" alt="verdan" /> </p>
 
-- 🔭 I’m currently working on [<img src="https://raw.githubusercontent.com/lyft/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" /> **Amundsen**](https://github.com/amundsen-io/amundsen)
+- 🔍 Making data discoverable, trustworthy, impactful, and AI-ready.
 
-- 🌱 I’m currently learning **Big Data Ecosystem**
+- 🌱 Learning and Building Data Platforms
 
-- 💬 Ask me about **(idiomatic)Python, Flask, Django, Keycloak, OIDC, Apache Atlas, Data Discovery**
+- 💬 Ask me about **(idiomatic)Python, Flask, Django, Data Discovery, Data Governance, and Semantic Models**
 
 ---
 <p>
